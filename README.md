@@ -6,9 +6,9 @@ which is widely used in the field of NLP and text generation, was used.
 
 ## Dataset
 
-Veri setini web kazıma yöntemi ile çeşitli web sitelerinden aldığım şarkı ve 
-şiir sözleri ile oluşturdum. 94 bin satır lyricten oluşan veri setini scraping 
-project altındaki klasörlerde bulabilirsiniz.
+I created the dataset with song and poetry lyrics from various websites using web scraping
+method. You can find the dataset consisting of 94 thousand lines of lyrics in folders under
+scraping project.
 
 - [lyrics-v2](scraping-project/lyrics/lyrics-v2.xlsx)
 - [lyrics-v3](scraping-project/lyrics/lyrics-v3.xlsx)
